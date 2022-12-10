@@ -1,0 +1,12 @@
+settings = {
+    "proxies": "127.0.0.1:1088",
+    "email": {
+        "FROM_PWD": "email_password",
+        "SMTP_SERVER": "imap.gmail.com",
+        "SMTP_PORT": 993
+    },
+    "linkedin": {
+        "email": "kondrandr2004@gmail.com",
+        "password": "linkedin_password"
+    }
+}
